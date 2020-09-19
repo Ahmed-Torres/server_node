@@ -1,6 +1,6 @@
 
 const hobbies = ["correr", "nadar", "caminar"]
 
-const reco = require("./librerias/libreria")
+const reco = require("../modulos/recorrido")
 
 reco.recorrerH(hobbies)
