@@ -1,0 +1,24 @@
+{
+  "name": "server_node",
+  "version": "1.0.0",
+  "description": "Para utilizar la app hay que hacer los siguientes pasos.",
+  "main": "index.js",
+  "dependencies": {
+    "moment": "^2.29.0",
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ./app/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ahmed-Torres/server_node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ahmed-Torres/server_node/issues"
+  },
+  "homepage": "https://github.com/Ahmed-Torres/server_node#readme"
+}
