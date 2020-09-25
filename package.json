@@ -4,12 +4,14 @@
   "description": "Para utilizar la app hay que hacer los siguientes pasos.",
   "main": "index.js",
   "dependencies": {
-    "moment": "^2.29.0",
+    "moment": "^2.29.0"
+  },
+  "devDependencies": {
     "nodemon": "^2.0.4"
   },
-  "devDependencies": {},
   "scripts": {
-    "start": "node ./app/index.js"
+    "start": "nodemon ./app/index.js",
+    "production": "npm i --prod && node ./app/index.js"
   },
   "repository": {
     "type": "git",

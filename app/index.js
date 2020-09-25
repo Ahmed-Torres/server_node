@@ -11,3 +11,6 @@ imprime.imprimirAlgo(algoParaImprimir)
 let moment = require("moment")
 
 console.log("hola mundo " + moment(new Date()).format("DD/MM/yyyy"))
+console.log("CAMBIOOO")
+console.log("CADA VEZ QUE SALVO EL INDEX.JS SE REFLEJA EN LA CONSOLA TAL Y COMO EN LIVE SERVER REFLEJA CAMBIOS EN EL NAVEGADOR!!!")
+console.log("esto ocurre gracias a que en package.json , en scripts, en vez de node, nodemon")
