@@ -4,6 +4,7 @@
   "description": "Para utilizar la app hay que hacer los siguientes pasos.",
   "main": "index.js",
   "dependencies": {
+    "cool-images": "^1.0.3",
     "moment": "^2.29.0"
   },
   "devDependencies": {

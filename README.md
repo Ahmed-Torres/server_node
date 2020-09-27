@@ -12,3 +12,10 @@ como usar esta aplicacion :
 }`
 
 cualquier cosa me preguntas 
+
+# Como iniciar la aplicacion:
+_npm i
+_npm run start
+_and develop :)
+
+[Documentacion] (https://google.com/api/saraza)
